@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: coral;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: darkred;
+  text-align: center;
+}
+
+h2 {
+  color: #555;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  color: green;
+}
+
+h4 {
+  color: #444;
+}
+
+.handwriting {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 20px;
+  color: #222;
+  padding: 10px;
+}
+
+.rounded {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
